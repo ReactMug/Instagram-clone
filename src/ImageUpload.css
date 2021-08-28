@@ -1,0 +1,13 @@
+.ImageUpload {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.ImageUpload > progress{
+  width: 100%;
+}
